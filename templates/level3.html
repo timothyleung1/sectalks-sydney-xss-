@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>XSS</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+			<h2>XSS</h2>
+				<p> 
+				GET params : input 
+			</p><p>
+				Try: /xxs1?input=abc 
+				</p> 
+			<div id="s"></div>
+		</div>			
+	<script>
+	var s="{{input}}";	document.getElementById('s').innerHTML = s;
+	</script>
+</body>
+</html>

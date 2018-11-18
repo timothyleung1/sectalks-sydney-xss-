@@ -1,0 +1,22 @@
+1530957535660	geckodriver	INFO	geckodriver 0.18.0
+1530957535669	geckodriver	INFO	Listening on 127.0.0.1:57663
+1530957536803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette", "-headless"]
+*** You are running in headless mode.
+1530957537836	Marionette	INFO	Listening on port 36349
+1530957537941	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6094, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6094, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530957577850	geckodriver	INFO	geckodriver 0.18.0
+1530957577861	geckodriver	INFO	Listening on 127.0.0.1:53833
+1530957578955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette", "-headless"]
+*** You are running in headless mode.
+1530957579885	Marionette	INFO	Listening on port 41139
+1530957579966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530958118522	geckodriver	INFO	geckodriver 0.18.0
+1530958118526	geckodriver	INFO	Listening on 127.0.0.1:37205
+1530958119589	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette", "-headless"]
+*** You are running in headless mode.
+1530958120558	Marionette	INFO	Listening on port 42991
+1530958120598	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7160, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7160, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
